@@ -1,0 +1,8 @@
+# wrangler.toml - minimal for static Pages
+name = "sims-4-dlc-unlocker"          # optional
+compatibility_date = "2026-02-03"
+
+# Tells Pages this is static output (no build needed)
+pages_build_output_dir = "."          # or your folder with index.html, e.g. "./public"
+
+# No [assets] or main needed for basic static
