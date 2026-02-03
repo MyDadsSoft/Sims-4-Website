@@ -1,5 +1,5 @@
 {
-  "name": "mydadssofts-sims4-unlocker",
+  "name": "sims-4-dlc-unlocker",
   "compatibility_date": "2026-02-03",
   "assets": {
     "directory": "./"   // or "./dist" if files are in a subfolder
