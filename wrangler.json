@@ -1,0 +1,7 @@
+{
+  "name": "mydadssofts-sims4-unlocker",
+  "compatibility_date": "2026-02-03",
+  "assets": {
+    "directory": "./"   // or "./dist" if files are in a subfolder
+  }
+}
